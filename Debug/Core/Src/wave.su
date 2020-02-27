@@ -1,0 +1,2 @@
+wave.c:11:6:fixWave	16	static
+wave.c:26:6:sendSample	16	static
